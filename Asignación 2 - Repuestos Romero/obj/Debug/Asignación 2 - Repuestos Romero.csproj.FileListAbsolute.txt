@@ -1,0 +1,8 @@
+C:\Users\joanj\source\repos\Asignación 2 - Repuestos Romero\Asignación 2 - Repuestos Romero\bin\Debug\Asignación 2 - Repuestos Romero.exe.config
+C:\Users\joanj\source\repos\Asignación 2 - Repuestos Romero\Asignación 2 - Repuestos Romero\bin\Debug\Asignación 2 - Repuestos Romero.exe
+C:\Users\joanj\source\repos\Asignación 2 - Repuestos Romero\Asignación 2 - Repuestos Romero\bin\Debug\Asignación 2 - Repuestos Romero.pdb
+C:\Users\joanj\source\repos\Asignación 2 - Repuestos Romero\Asignación 2 - Repuestos Romero\obj\Debug\Asignación 2 - Repuestos Romero.csproj.AssemblyReference.cache
+C:\Users\joanj\source\repos\Asignación 2 - Repuestos Romero\Asignación 2 - Repuestos Romero\obj\Debug\Asignación 2 - Repuestos Romero.csproj.SuggestedBindingRedirects.cache
+C:\Users\joanj\source\repos\Asignación 2 - Repuestos Romero\Asignación 2 - Repuestos Romero\obj\Debug\Asignación 2 - Repuestos Romero.csproj.CoreCompileInputs.cache
+C:\Users\joanj\source\repos\Asignación 2 - Repuestos Romero\Asignación 2 - Repuestos Romero\obj\Debug\Asignación 2 - Repuestos Romero.exe
+C:\Users\joanj\source\repos\Asignación 2 - Repuestos Romero\Asignación 2 - Repuestos Romero\obj\Debug\Asignación 2 - Repuestos Romero.pdb
